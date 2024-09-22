@@ -1,4 +1,5 @@
 import React from 'react'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (
@@ -6,6 +7,7 @@ const App = () => {
     <h1>
       Hello I AM New Here. WelCome Me,,,,,
     </h1>
+    <Navbar/>
     </>
   )
 }
